@@ -94,20 +94,20 @@ public class CircleSquareGO : MonoBehaviour
 ```
 3.	 Создали пустой объект Bg и добавил компонент Sprite Renderer, с спрайт BackGround. и настройка Main Camera и остальных объектов
 
-_____![image](https://user-images.githubusercontent.com/119228138/205000033-d4f92709-c834-4a02-8aa0-5a61b3aba253.png) ![image](https://user-images.githubusercontent.com/119228138/205000053-b05d931b-8609-4814-b946-15782c212124.png)
+       ![image](https://user-images.githubusercontent.com/119228138/205000033-d4f92709-c834-4a02-8aa0-5a61b3aba253.png) ![image](https://user-images.githubusercontent.com/119228138/205000053-b05d931b-8609-4814-b946-15782c212124.png)
 
-_________________Рис. 21.1 Inspector объектов Sprite
+       Рис. 21.1 Inspector объектов Sprite
 
 4.	В пустом объекте Circle Blue создал объект через 2D Object – Sprites, куда добавил спрайт Blue_circle и т.д. их настройка.   Таким же образом сделал игровые объекты другого типа. 
  
  ![image](https://user-images.githubusercontent.com/119228138/205000160-1611781a-9677-4527-b2a0-04be315f692d.png)
  
-_________________Рис. 21.2 Рис. 21.2 Inspector объекта Squaer Orange
+       Рис. 21.2 Рис. 21.2 Inspector объекта Squaer Orange
 
 ![image](https://user-images.githubusercontent.com/119228138/205000198-68ee9a04-e1e6-4ae1-96a2-1921a7131352.png)![image](https://user-images.githubusercontent.com/119228138/205000221-c9939ae7-7da9-44ac-8140-fe15ef553762.png)
 
 
-_________________Рис. 21.3 Префабы, Inspector объекта GameController и объекта EdgeCollider
+       Рис. 21.3 Префабы, Inspector объекта GameController и объекта EdgeCollider
 
 5.	Скрипт GameController
 ```
@@ -209,20 +209,20 @@ public class EdgeCollider : MonoBehaviour
 
 ![image](https://user-images.githubusercontent.com/119228138/205000423-dddaa681-6c6a-4a7b-861a-ecc5d6fcbae4.png)![image](https://user-images.githubusercontent.com/119228138/205000444-8c66bd6e-eb32-4b3a-8f33-915428822954.png)
 
-_________________Рис. 21.4 Inspector объектов StartGameCanvas и Button
+       Рис. 21.4 Inspector объектов StartGameCanvas и Button
 
 8.	Создали объект GameCanvas:  Скопировал его и изменил под правую сторону. 
 
 ![image](https://user-images.githubusercontent.com/119228138/205000521-5936bd3a-1ff1-47f5-a7f2-31c91eb4f298.png)![image](https://user-images.githubusercontent.com/119228138/205000533-e517c90f-b125-4e6b-8bd9-465a63c6a6fc.png)
 
 
-_________________Рис. 21.4 Inspector объектов LeftHalfButton и RightHalfButton
+       Рис. 21.4 Inspector объектов LeftHalfButton и RightHalfButton
 
 9.	Создали объект ScoreCanvas. с дочерним объектом Text:
 
 ![image](https://user-images.githubusercontent.com/119228138/205000565-526184fd-6895-4b6f-8945-71f46113a9db.png)
 
-_________________Рис. 21.4 Inspector объекта Text
+       Рис. 21.4 Inspector объекта Text
 
 Вывод:В ходе проделанной работы были приобретены навыки в разработке игры 2 CARS.
 
